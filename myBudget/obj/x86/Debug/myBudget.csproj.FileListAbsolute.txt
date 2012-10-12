@@ -1,0 +1,14 @@
+c:\users\jholderman\documents\visual studio 2010\Projects\myBudget\myBudget\bin\Debug\myBudget.exe
+c:\users\jholderman\documents\visual studio 2010\Projects\myBudget\myBudget\bin\Debug\myBudget.pdb
+c:\users\jholderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jholderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\myBudget.Properties.Resources.resources
+c:\users\jholderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\jholderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\jholderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\myBudget.exe
+c:\users\jholderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\myBudget.pdb
+C:\Users\JHolderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\myBudget.BillManager.resources
+C:\Users\JHolderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\myBudget.myBudget.resources
+C:\Users\JHolderman\documents\visual studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\myBudget.RegisterManager.resources
+C:\Users\JHolderman\Documents\Visual Studio 2010\Projects\myBudget\myBudget\obj\x86\Debug\myBudget.NewBudgetWizard.resources
+C:\Users\JHolderman\Documents\Visual Studio 2010\Projects\myBudget\myBudget\bin\Debug\myBudget.exe.config
+C:\Users\JHolderman\Documents\Visual Studio 2010\Projects\myBudget\myBudget\bin\Debug\myBudget.sdf
