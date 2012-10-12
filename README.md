@@ -1,0 +1,4 @@
+myBudget
+========
+
+Personal Budget Manager
